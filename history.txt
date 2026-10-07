@@ -1,0 +1,27 @@
+    1  hostname mumbai
+    2  exit
+    3  git --version
+    4  git --help
+    5  git clone git@github.com:prashantgudale/test.git
+    6  ssh -keygen
+    7  ssh-keygen
+    8  cd /root/.ssh
+    9  ls
+   10  cat id_ed25519.pub
+   11  cd ..
+   12  git clone git@github.com:prashantgudale/test.git
+   13  ls
+   14  cd test
+   15  ls
+   16  cd ..
+   17  ls
+   18  cd test
+   19  ls
+   20  cd ..
+   21  git pull
+   22  ls
+   23  cd test
+   24  git pull
+   25  ls
+   26  cat weblogic and ngnix interview.docx
+   27  history >> history.txt
